@@ -1,4 +1,4 @@
-# Coding-samples. 
+# Coding-samples
 
 This repository contains three examples of code that I have written. 
 
